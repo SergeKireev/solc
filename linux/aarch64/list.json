@@ -187,6 +187,10 @@
     {
       "version": "0.8.15",
       "sha256": "292b4efbd51a35eece83cfe706f406893f06d48834dc99636ed360209ddfd589"
+    },
+    {
+      "version": "zksolc-1.1.0",
+      "sha256": "00c69bc8b7de57ebded31b07c7274804b80c01a891af37c80361878b82675e47"
     }
   ],
   "releases": {
